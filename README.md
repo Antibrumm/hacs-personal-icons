@@ -1,1 +1,3 @@
-# hacs-personal-icons
+# HACS Personal Icons
+
+Personal icons for Home Assistant
