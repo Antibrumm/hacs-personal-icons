@@ -1,0 +1,6 @@
+{
+  "name": "hacs-personal-icons",
+  "content_in_root": false,
+  "render_readme": true,
+  "filename": "hacs-personal-icons.js"
+}
