@@ -1,8 +1,8 @@
 var icons = {
   "window-shutter-half":[0,0,24,24,"M3 4H21V8H19V20H17V8H7V20H5V8H3V4M8 9H16V11H8V9M8 12H16V14H8V12M8"],
-  "window-open":[0,0,24,24,"m 3 5 l 15 15 l 2 -2 l -15 -15 m -3 8 l 20 0 l -2 -2 l -16 0 m 3 0 l 4 0 l 2 2 l -4 0"],
-  "window-closed":[0,0,24,24,"m 3 5 15 15 l 2 -2 l -15 -15 m 2 1 l 12 12 l 0 -2 l -10 -10"],
-  "window-half":[0,0,24,24,"m 3 5 l 15 15 l 2 -2 l -15 -15 m -2 6 l 18 6 l -1 -2 l -15 -5 m 1.5 0.5 l 6 2 l 2.5 2.5 l -6 -2"]
+  "skylight-open":[0,0,24,24,"M 6 11 H 18 V 4 H 6 Z V 11 M 18 13 H 6 V 20 H 18 V 13 M 6 2 H 18 A 2 2 0 0 1 20 4 V 20 A 2 2 0 0 1 18 22 H 6 A 2 2 0 0 1 4 20 V 4 A 2 2 0 0 1 6 2 Z"],
+  "skylight-closed":[0,0,24,24,"M 6 18 H 18 V 6 H 6 V 18 M 6 2 H 18 A 2 2 0 0 1 20 4 V 20 A 2 2 0 0 1 18 22 H 6 A 2 2 0 0 1 4 20 V 4 A 2 2 0 0 1 6 2 Z"],
+  "skylight-half":[0,0,24,24,"M 6 8 H 18 V 4 H 6 V 8 M 18 10 H 6 V 15 H 18 V 10 M 6 20 H 18 V 17 H 6 V 20 M 6 2 H 18 A 2 2 0 0 1 20 4 V 20 A 2 2 0 0 1 18 22 H 6 A 2 2 0 0 1 4 20 V 4 A 2 2 0 0 1 6 2 Z"]
 };
 
 
